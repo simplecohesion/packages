@@ -1,3 +1,12 @@
+## 14.6.3
+
+- Updates minimum supported SDK version to Flutter 3.22/Dart 3.4.
+- Updates readme.
+
+## 14.6.2
+
+- Replaces deprecated collection method usage.
+
 ## 14.6.1
 
 - Fixed `PopScope`, and `WillPopScop` was not handled properly in the Root routes.

@@ -37,6 +37,7 @@ See the API documentation for details on the following topics:
 - [Error handling](https://pub.dev/documentation/go_router/latest/topics/Error%20handling-topic.html)
 
 ## Migration Guides
+- [Migrating to 15.0.0](https://flutter.dev/go/go-router-v15-breaking-changes).
 - [Migrating to 14.0.0](https://flutter.dev/go/go-router-v14-breaking-changes).
 - [Migrating to 13.0.0](https://flutter.dev/go/go-router-v13-breaking-changes).
 - [Migrating to 12.0.0](https://flutter.dev/go/go-router-v12-breaking-changes).
@@ -72,6 +73,7 @@ The project follows the same priority system as flutter framework.
 
 ## Roadmap
 
-This package has entered a maintenance phase.  The Flutter team's primary focus will be on
+This package is considered feature-complete.  The Flutter team's primary focus will be on
 addressing bug fixes and ensuring stability.  While active feature development is not currently
-planned, we welcome and encourage community contributions to expand the package's functionality.
+planned, we still welcome and encourage community contributions to expand the package's
+functionality.
